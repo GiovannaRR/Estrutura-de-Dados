@@ -10,6 +10,8 @@ Cada pasta contém exercícios, códigos-fonte e anotações relacionadas a dife
 - `04-Listas, Pilhas e Filas` — Implementações básicas dessas estruturas lineares.
 - `05-Estruturas Lineares Dinâmicas: Listas, Pilhas e Filas` — Versões dinâmicas das estruturas lineares e manipulação em tempo de execução.
 - `06-Pilhas e Filas Dinâmicas` — Foco em operações com pilhas e filas utilizando alocação dinâmica.
+- `12–Algoritmos de Ordenação Fundamentais` — Implementações básicas e análise dos principais algoritmos de ordenação: Bubble Sort, Selection Sort e Insertion Sort. Códigos e exemplos em C++.
+- `Aula 14 – Métodos de Busca: Sequencial e Binária` — Implementações dos algoritmos de busca sequencial e binária, com foco na eficiência e aplicação prática. Códigos e exemplos em C++.
 
 ## 💻 Linguagem
 
